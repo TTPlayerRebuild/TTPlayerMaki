@@ -1,2 +1,6 @@
 /build/
 /out/
+
+/BUILD_VERSION
+
+/artifact/
